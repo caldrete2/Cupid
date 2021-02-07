@@ -1,0 +1,23 @@
+{
+  "name": "cupid",
+  "version": "1.0.0",
+  "description": "Valentine Card maker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caldrete2/Cupid.git"
+  },
+  "author": "Cesar Aldrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caldrete2/Cupid/issues"
+  },
+  "homepage": "https://github.com/caldrete2/Cupid#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
